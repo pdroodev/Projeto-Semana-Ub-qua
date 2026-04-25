@@ -64,20 +64,6 @@ O **Tá Pago?** permite que o usuário:
 
 ---
 
-## ✅ Funcionalidades implementadas
-
-- [x] Notificações de vencimento próximo
-- [x] Exportar relatório em CSV
-- [x] Modo escuro
-- [x] Histórico de pagamentos por mês
-
-## 🔮 Próximas funcionalidades
-
-- [ ] Categorias de contas (moradia, alimentação, etc.)
-- [ ] Página sobre investimentos
-
----
-
 ## 👥 Equipe
 
 Projeto desenvolvido por:
@@ -97,6 +83,3 @@ Projeto desenvolvido por:
 
 Este projeto está licenciado sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-<p align="center">Feito com 💚 para o hackathon de soluções financeiras</p>
